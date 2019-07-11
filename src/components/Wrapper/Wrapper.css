@@ -1,0 +1,11 @@
+.wrapper{
+    background: rgb(175, 175, 175);
+    background-image: url("https://maryellenstrongfoundation.org/wp-content/uploads/2017/12/CRISIS-e1513103885533.jpeg");
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+}
