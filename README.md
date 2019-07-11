@@ -14,4 +14,4 @@ This app is a memory game with React. This project required me to break up my ap
 
 5. Once the user's score is reset after an incorrect guess, the game should restart.
 
-![Image](/clicky_game/public/images/hp_clicky.png)
+![Image](/public/images/hp_clicky.png)
